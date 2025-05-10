@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>柳の小屋</title>
+  
+  
+  <link href="https://616996.best/atom.xml" rel="self"/>
+  
+  <link href="https://616996.best/"/>
+  <updated>2025-05-10T14:36:28.205Z</updated>
+  <id>https://616996.best/</id>
+  
+  <author>
+    <name>朝日 十六月</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>#碎碎念</title>
+    <link href="https://616996.best/2023/11/10/%E7%A2%8E%E7%A2%8E%E5%BF%B5/"/>
+    <id>https://616996.best/2023/11/10/%E7%A2%8E%E7%A2%8E%E5%BF%B5/</id>
+    <published>2023-11-10T07:25:03.000Z</published>
+    <updated>2025-05-10T14:36:28.205Z</updated>
+    
+    <content type="html"><![CDATA[<div class="note note-success">            <p><strong>关于此页</strong></p><p>这一页用来记录一下平时发生的事与有感(<del>胡言乱语</del></p>          </div>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;div class=&quot;note note-success&quot;&gt;
+            &lt;p&gt;&lt;strong&gt;关于此页&lt;/strong&gt;	&lt;/p&gt;&lt;p&gt;这一页用来记录一下平时发生的事与有感(&lt;del&gt;胡言乱语&lt;/del&gt;&lt;/p&gt;
+          &lt;/div&gt;
+</summary>
+      
+    
+    
+    
+    <category term="碎碎念" scheme="https://616996.best/categories/%E7%A2%8E%E7%A2%8E%E5%BF%B5/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://616996.best/2023/10/14/hello-world/"/>
+    <id>https://616996.best/2023/10/14/hello-world/</id>
+    <published>2023-10-14T12:46:25.000Z</published>
+    <updated>2025-05-10T14:36:28.205Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo new <span class="hljs-string">&quot;My New Post&quot;</span><br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo server<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo generate<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo deploy<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
